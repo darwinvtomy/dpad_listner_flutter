@@ -1,6 +1,6 @@
 # dpad_listner
 
-A new Flutter application.
+A Sample Flutter TV application which ressponds to Dpad Conrols.
 
 ## Getting Started
 
